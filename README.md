@@ -1,17 +1,11 @@
-Iquidus Explorer - 1.6.1
+Bitsum Explorer - 1.6.1
 ================
 
 An open source block explorer written in node.js.
 
 ### See it in action
 
-*  [Deutsche eMark](http://b.emark.tk/)
-*  [Sphere](http://sphere.iquidus.io)
-*  [Vertcoin](http://explorer.vertcoin.info/)
-*  [Vivo](http://vivo.explorerz.top:3003)
-*  [Florincoin](https://florincoin.info/info)
-*  [Maxcoin Explorer 1](https://explorer.maxcoinproject.net/)
-*  [Maxcoin Explorer 2](https://explorer2.maxcoinproject.net/)
+*  [Sumcoin](http://explorer.bitsum.info/)
 
 
 *note: If you would like your instance mentioned here contact me*
@@ -139,8 +133,8 @@ Where [SIZE] is an integer higher than the default.
 
 ### License
 
-Copyright (c) 2015, Iquidus Technology  
-Copyright (c) 2015, Luke Williams  
+Copyright (c) 2015, Iquidus Technology
+Copyright (c) 2015, Luke Williams
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
