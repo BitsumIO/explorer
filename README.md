@@ -5,7 +5,7 @@ An open source block explorer written in node.js.
 
 ### See it in action
 
-*  [Sumcoin](http://explorer.bitsum.info/)
+*  [Sumcoin](http://explorer.bitsum.io/)
 
 
 *note: If you would like your instance mentioned here contact me*
