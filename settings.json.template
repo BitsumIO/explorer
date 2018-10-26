@@ -5,15 +5,15 @@
 */
 {
   // name your instance!
-  "title": "IQUIDUS",
+  "title": "BitSUM",
 
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Darkcoin",
+  "coin": "SumTest",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "SUMT",
 
   // logo
   "logo": "/images/logo.png",
@@ -26,15 +26,15 @@
   //     Cerulean, Cosmo, Cyborg, Darkly, Flatly, Journal, Lumen, Paper,
   //     Readable, Sandstone, Simplex, Slate, Spacelab, Superhero, United, Yeti
   // theme (see /public/themes for available themes)
-  "theme": "Cyborg",
+  "theme": "United",
 
   // port to listen for requests on.
   "port" : 3001,
 
   // database settings (MongoDB)
   "dbsettings": {
-    "user": "iquidus",
-    "password": "3xp!0reR",
+    "user": "youruser",
+    "password": "yourscretepassword",
     "database": "explorerdb",
     "address": "localhost",
     "port": 27017
@@ -47,9 +47,9 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 9332,
-    "user": "darkcoinrpc",
-    "pass": "123gfjk3R3pCCVjHtbRde2s5kzdf233sa"
+    "port": 10899,
+    "user": "user775599010",
+    "pass": "passd2ce497502552a67be302fdf98fc010ff6316040e60b4f862d28f748109df990dc"
   },
 
   // confirmations
@@ -83,18 +83,18 @@
   "api": {
     "blockindex": 1337,
     "blockhash": "1733320247b15ca2262be646397d1ffd6be953fa638ebb8f5dcbb4c2b91b34f1",
-    "txhash": "f270cd3813254c9922a2e222a56ba745842d9112223a1394062e460b33d27b7e",
-    "address": "RBiXWscC63Jdn1GfDtRj8hgv4Q6Zppvpwb"
+    "txhash": "e70e32e61e4014fc6dc318b2891fdbc506ab974c3e0650a5cc02031a0131f89e",
+    "address": "RArkq8cQvuDa1owm4cewgLwtdwhGzV5iyx"
   },
 
   // market settings
   //supported markets: bittrex, poloniex, yobit, empoex, bleutrade, cryptopia, ccex
   //default market is loaded by default and determines last price in header
   "markets": {
-    "coin": "JBS",
+    "coin": "SUM",
     "exchange": "BTC",
     "enabled": ["bittrex"],
-    "cryptopia_id": "1658",
+    "cryptopia_id": "1",
     "ccex_key" : "Get-Your-Own-Key",
     "default": "bittrex"
   },
@@ -122,8 +122,8 @@
   "youtube": "youryoutubechannel",
 
   //genesis
-  "genesis_tx": "65f705d2f385dc85763a317b3ec000063003d6b039546af5d8195a5ec27ae410",
-  "genesis_block": "b2926a56ca64e0cd2430347e383f63ad7092f406088b9b86d6d68c2a34baef51",
+  "genesis_tx": "4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b",
+  "genesis_block": "027e3758c3a65b12aa1046462b486d0a63bfa1beae327897f56c5cfb7daaae71",
 
   //heavy (enable/disable additional heavy features)
   "heavy": false,
